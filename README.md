@@ -5,16 +5,16 @@ Based in [PHP Highcharts](https://github.com/misd-service-development/php-highch
 
 ## Installation
 
-Run the following command and provide the latest stable version (e.g v2.4.15) :
+Run the following command and provide the latest stable version (e.g v1.0.0) :
 
 ```bash
-composer require mauro-moreno/laravel-highcharts
+composer require rad-mira-labs/laravel-highcharts
 ```
 
 or add the following to your `composer.json` file :
 
 ```json
-"mauro-moreno/laravel-highcharts": "dev-master"
+"rad-mira-labs/laravel-highcharts": "1.0.0"
 ```
 
 Then register this service provider with Laravel :
