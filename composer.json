@@ -1,5 +1,5 @@
 {
-    "name": "mauro-moreno/laravel-highcharts",
+    "name": "rad-mira-labs/laravel-highcharts",
     "description": "This is a package for generating a Highchart JSON config.",
     "keywords": ["laravel", "highcharts"],
     "license": "MIT",
