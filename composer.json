@@ -1,5 +1,5 @@
 {
-    "name": "rad-mira-labs/laravel-highcharts",
+    "name": "efficioconsulting/laravel-highcharts",
     "version": "1.0.0",
     "description": "This is a package for generating a Highchart JSON config.",
     "keywords": ["laravel", "highcharts"],
